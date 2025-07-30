@@ -11,7 +11,6 @@ public class ui extends JFrame{
     private void setFrame(){
         setLayout(new BorderLayout());
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        
         setLocationRelativeTo(null);
     }
      public static void main(String[] args) {
